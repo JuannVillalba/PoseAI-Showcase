@@ -54,11 +54,8 @@ Each bodybuilding pose has its own target ranges and weights. For example, a fro
 
 ## Screenshots
 
-Add screenshots to `assets/screenshots/` and update the image paths below.
-
 | Live Coach | Pose Analysis | Progress |
 | --- | --- | --- |
-| ![Live Coach placeholder](assets/screenshots/live-coach-placeholder.svg) | ![Pose Analysis placeholder](assets/screenshots/photo-analysis-placeholder.svg) | ![Progress placeholder](assets/screenshots/progress-placeholder.svg) |
 
 ## Product Status
 

@@ -48,11 +48,6 @@ Each bodybuilding pose has its own target ranges and weights. For example, a fro
 - AVFoundation
 - Xcode
 
-## Screenshots
-
-| Live Coach | Pose Analysis | Progress |
-| --- | --- | --- |
-
 ## Product Status
 
 PoseAI is currently in prototype development. The current focus is improving pose-tracking stability, tightening scoring quality, refining camera orientation behavior, and making live coaching feel calmer and more useful during practice.

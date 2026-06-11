@@ -46,10 +46,6 @@ Each bodybuilding pose has its own target ranges and weights. For example, a fro
 - SwiftUI
 - Apple Vision
 - AVFoundation
-- CoreImage
-- PhotosUI
-- Swift Charts
-- Local JSON persistence
 - Xcode
 
 ## Screenshots
@@ -65,4 +61,10 @@ PoseAI is currently in prototype development. The current focus is improving pos
 
 This public repository intentionally excludes source code, proprietary scoring details, training data, product roadmap specifics, and private implementation files.
 
+The source code for this project is kept private because the app is being developed as a potential product. Code samples or a walkthrough can be provided upon request.
+
 For collaboration or investment conversations, please contact the project owner directly.
+
+Contact: juanpablovillalba02@gmail.com 
+linkedin: https://www.linkedin.com/in/juanpablovillalbaa/
+

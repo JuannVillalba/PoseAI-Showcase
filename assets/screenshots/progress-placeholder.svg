@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="844" viewBox="0 0 390 844" role="img" aria-labelledby="title desc">
+  <title id="title">Progress dashboard screenshot placeholder</title>
+  <desc id="desc">Placeholder for a PoseAI progress dashboard screenshot.</desc>
+  <rect width="390" height="844" rx="42" fill="#111315"/>
+  <text x="28" y="96" fill="#ffffff" font-family="Arial, sans-serif" font-size="34" font-weight="700">Progress</text>
+  <rect x="24" y="132" width="342" height="130" rx="20" fill="#1d2939"/>
+  <text x="44" y="174" fill="#9fb1bd" font-family="Arial, sans-serif" font-size="14" font-weight="700">AVERAGE SCORE</text>
+  <text x="44" y="226" fill="#ffffff" font-family="Arial, sans-serif" font-size="46" font-weight="700">78%</text>
+  <rect x="24" y="296" width="342" height="240" rx="20" fill="#172a36"/>
+  <path d="M52 468 C96 430 118 446 150 398 S224 352 262 374 S318 326 338 342" fill="none" stroke="#5eead4" stroke-width="8" stroke-linecap="round"/>
+  <line x1="52" y1="488" x2="338" y2="488" stroke="#34424d" stroke-width="2"/>
+  <line x1="52" y1="404" x2="338" y2="404" stroke="#34424d" stroke-width="2"/>
+  <rect x="24" y="574" width="342" height="88" rx="18" fill="#20252b"/>
+  <rect x="44" y="594" width="52" height="52" rx="12" fill="#3b4550"/>
+  <text x="112" y="610" fill="#ffffff" font-family="Arial, sans-serif" font-size="18" font-weight="700">Front Lat Spread</text>
+  <text x="112" y="638" fill="#9fb1bd" font-family="Arial, sans-serif" font-size="15">Saved session</text>
+  <rect x="24" y="684" width="342" height="88" rx="18" fill="#20252b"/>
+  <rect x="44" y="704" width="52" height="52" rx="12" fill="#3b4550"/>
+  <text x="112" y="720" fill="#ffffff" font-family="Arial, sans-serif" font-size="18" font-weight="700">Side Chest</text>
+  <text x="112" y="748" fill="#9fb1bd" font-family="Arial, sans-serif" font-size="15">Saved session</text>
+</svg>

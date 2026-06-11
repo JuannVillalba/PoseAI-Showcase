@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="844" viewBox="0 0 390 844" role="img" aria-labelledby="title desc">
+  <title id="title">Photo Analysis screenshot placeholder</title>
+  <desc id="desc">Placeholder for a PoseAI photo analysis screenshot.</desc>
+  <rect width="390" height="844" rx="42" fill="#111315"/>
+  <rect x="24" y="82" width="342" height="460" rx="28" fill="#24282d"/>
+  <rect x="54" y="122" width="282" height="360" rx="22" fill="#30363d"/>
+  <path d="M118 426 L170 334 L212 380 L246 328 L320 426 Z" fill="#59636e"/>
+  <circle cx="132" cy="168" r="26" fill="#75808a"/>
+  <rect x="24" y="576" width="342" height="92" rx="20" fill="#172a36"/>
+  <text x="44" y="610" fill="#9fb1bd" font-family="Arial, sans-serif" font-size="14" font-weight="700">ANALYSIS</text>
+  <text x="44" y="640" fill="#ffffff" font-family="Arial, sans-serif" font-size="20" font-weight="700">Push elbows out</text>
+  <rect x="24" y="700" width="342" height="22" rx="11" fill="#30363d"/>
+  <rect x="24" y="700" width="256" height="22" rx="11" fill="#5eead4"/>
+  <text x="24" y="758" fill="#ffffff" font-family="Arial, sans-serif" font-size="32" font-weight="700">Pose Analysis</text>
+</svg>
